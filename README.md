@@ -1,4 +1,4 @@
-C++ RPG Character Management System 🎮⚔️
+                           C++ RPG Character Management System 🎮⚔️
 
 A comprehensive Object-Oriented Programming project that simulates a role-playing game (RPG) character management system. 
 Built during my third semester as part of my OOP course to demonstrate advanced C++ concepts including templates, inheritance, polymorphism, and memory management.
